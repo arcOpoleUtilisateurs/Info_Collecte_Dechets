@@ -16,6 +16,5 @@ Lien : http://www.montpellier3m.fr/collecte
 
 Contacts :
 Informatique : Ghil KRASSOVICH 04 67 13 60 73
-
 SIG : Nicolas CHARBONNIER 04 67 13 69 03
 
